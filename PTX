@@ -136,9 +136,9 @@ task.spawn(function()
 end)
 
 local Window = Library:CreateWindow({
-    Title = "PTX v1.3",
-    Footer = "project PTX + vhr Visuals + XOCU",
-    Icon = 5436396975,
+    Title = "PTX v1.4",
+    Footer = "project PTX V1.4",
+    Icon = 136377291558333,
     NotifySide = "Right",
     ShowCustomCursor = false,
     EnableCompacting = true,
@@ -623,12 +623,10 @@ do
     end})
 
     AboutGroup:AddLabel("━━━━━━━━━━━━━━━━━━━━━━━━━━━━", true)
-    AboutGroup:AddLabel("PTX · Project v1.3", true)
+    AboutGroup:AddLabel("PTX · Project v1.4", true)
     AboutGroup:AddLabel("━━━━━━━━━━━━━━━━━━━━━━━━━━━━", true)
     AboutGroup:AddLabel("Developers", true)
-    AboutGroup:AddLabel("  phantom_PTXxTSWxNFL", true)
-    AboutGroup:AddLabel("  9rr Team (OCN_PXre, Ka1zen)", true)
-    AboutGroup:AddLabel("  XOCU Integration", true)
+    AboutGroup:AddLabel("  PTX_GVLxTSWxNFLxFR", true)
     AboutGroup:AddLabel("━━━━━━━━━━━━━━━━━━━━━━━━━━━━", true)
     AboutGroup:AddLabel("Nothing", true)
     AboutGroup:AddLabel("This script is Goated", true)
