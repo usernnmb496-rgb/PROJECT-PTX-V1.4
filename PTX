@@ -623,10 +623,11 @@ do
     end})
 
     AboutGroup:AddLabel("━━━━━━━━━━━━━━━━━━━━━━━━━━━━", true)
-    AboutGroup:AddLabel("PTX · Project v1.4", true)
+    AboutGroup:AddLabel("Project • PTX v1.4", true)
     AboutGroup:AddLabel("━━━━━━━━━━━━━━━━━━━━━━━━━━━━", true)
     AboutGroup:AddLabel("Developers", true)
     AboutGroup:AddLabel("  PTX_GVLxTSWxNFLxFR", true)
+    AboutGroup:AddLabel("  LOVE ❣️ YURI(LMxMRL) ❣️", true)
     AboutGroup:AddLabel("━━━━━━━━━━━━━━━━━━━━━━━━━━━━", true)
     AboutGroup:AddLabel("Nothing", true)
     AboutGroup:AddLabel("This script is Goated", true)
